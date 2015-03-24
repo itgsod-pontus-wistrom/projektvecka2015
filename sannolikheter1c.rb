@@ -14,4 +14,4 @@ diff3 = 0
   puts
 end
 
-puts diff3/36.0
+puts "#{diff3/36.0*100}%"
